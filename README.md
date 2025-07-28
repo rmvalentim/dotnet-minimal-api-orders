@@ -87,7 +87,9 @@ Exemplo de JSON para POST:
 }
 
 PUT /orders/{id}
-Atualiza os dados de uma ordem existente (não atualiza produtos diretamente).
+{
+  "name": "Segunda ordem" 
+}
 
 DELETE /orders/{id}
 Remove uma ordem e seus produtos.
