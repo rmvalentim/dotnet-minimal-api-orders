@@ -87,6 +87,10 @@ Exemplo de JSON para POST:
 }
 
 PUT /orders/{id}
+Atualiza uma ordem.
+
+Exemplo de JSON para PUT:
+
 {
   "name": "Segunda ordem" 
 }
