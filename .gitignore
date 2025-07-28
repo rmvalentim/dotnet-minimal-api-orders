@@ -1,0 +1,64 @@
+## Arquivos de build do Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Diretórios de build
+bin/
+obj/
+out/
+Debug/
+Release/
+build/
+
+## Pacotes
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+## Logs
+*.log
+
+## Arquivos do Entity Framework
+Migrations/
+
+## Banco de dados SQLite
+*.db
+*.db-shm
+*.db-wal
+
+## Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.cache
+*.pid
+*.lock
+
+## VS Code
+.vscode/
+*.code-workspace
+
+## Visual Studio
+.vs/
+
+## Arquivos de usuário
+*.rsuser
+*.suo
+*.user
+*.userosscache
+
+## Rider
+.idea/
+*.iml
+
+## Teste e cobertura
+TestResults/
+*.coverage
+*.coveragexml
+
+## Sistema operacional
+.DS_Store
+Thumbs.db
